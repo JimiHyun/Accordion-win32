@@ -1,0 +1,1 @@
+7z x -y PortablePython_2.7.2.1.exe $_OUTDIR/App
